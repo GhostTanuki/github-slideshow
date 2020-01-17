@@ -1,1 +1,5 @@
+layout: slide
+title: "Welcome to our second slide"
 
+This is the longest and most confusing way to do something, but 'Hey at least I'm learning!!"
+Use the left arrow to go back!
